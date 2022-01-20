@@ -2,7 +2,7 @@
   "name": "Inforprize",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://inforprise.com",
+  "homepage": ".",
   "basename": "/",
   "dependencies": {
     "@babel/core": "7.4.3",
