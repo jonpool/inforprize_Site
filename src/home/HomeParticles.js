@@ -1,4 +1,4 @@
-import React, { Component , Fragment } from "react";
+import React, { Components , Fragment } from "react";
 import Slider from "react-slick";
 import {Link} from "react-router-dom";
 
@@ -61,7 +61,7 @@ const list = [
     }
 ]
 
-class HomeParticles extends Component{
+class HomeParticles extends Components{
     constructor(props) {
         super(props);
         this.menuTrigger = this.menuTrigger.bind(this);
