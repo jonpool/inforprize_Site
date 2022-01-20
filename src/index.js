@@ -67,7 +67,7 @@ class Root extends Component{
             <BrowserRouter basename={'/'}>
                 <PageScrollTop>
                     <Switch>
-                        <Route exact path={`${process.env.PUBLIC_URL}/`} component={HomeParticles}/>
+                        <Route exact path={`${process.env.PUBLIC_URL}/`} component={Demo}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/Demo`} component={Demo}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/main-demo`} component={MainDemo}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/dark-main-demo`} component={DarkMainDemo}/>
