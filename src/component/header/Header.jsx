@@ -62,23 +62,8 @@ class Header extends Component{
                             <ul className="mainmenu">
                                 <li className="has-droupdown"><Link to="#">Home</Link>
                                     <ul className="submenu">
-                                        <li><Link to="/main-demo">Main Demo</Link></li>
-                                        <li><Link to="/dark-main-demo">Main Demo Dark</Link></li>
-                                        <li><Link to="/creative-agency">Creative Agency</Link></li>
-                                        <li><Link to="/creative-landing">Creative One Page</Link></li>
-                                        <li><Link to="/creative-portfolio">Creative Portfolio</Link></li>
-                                        <li><Link to="/personal-portfolio">Personal Portfolio</Link></li>
-                                        <li><Link to="/portfolio-landing">Portfolio One Page</Link></li>
-                                        <li><Link to="/dark-portfolio-landing">Portfolio One Page 02</Link></li>
-                                        <li><Link to="/digital-agency">Digital Agency</Link></li>
-                                        <li><Link to="/startup">Startup</Link></li>
-                                        <li><Link to="/paralax">Paralax</Link></li>
-                                        <li><Link to="/portfolio-home">Minimal Portfolio</Link></li>
-                                        <li><Link to="/business">Business</Link></li>
-                                        <li><Link to="/home-particles">Home Particles</Link></li>
-                                        <li><Link to="/studio-agency">Studio Agency</Link></li>
-                                        <li><Link to="/designer-portfolio">Designer Portfolio</Link></li>
-                                        <li><Link to="/interactive-agency">Interactive Agency</Link></li>
+                                        <li><Link to="/dark-main-demo">Home Dark</Link></li>
+                                       
                                     </ul>
                                 </li>
                                 <li className="has-droupdown"><Link to="/service" >Service</Link>
