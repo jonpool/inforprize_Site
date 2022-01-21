@@ -14,7 +14,7 @@ const SlideList = [
     {
         textPosition: 'text-left',
         category: 'Freelance digital designer',
-        title: 'Hello, I’m <span>Nancy</span> Welcome to my World.',
+        title: 'Hello, I’m <span>Joao</span> Welcome to my World.',
         description: '',
         buttonText: '',
         buttonLink: ''

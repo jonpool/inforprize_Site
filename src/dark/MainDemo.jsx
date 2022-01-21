@@ -19,7 +19,7 @@ class MainDemo extends Component{
         
         return(
             <div className="active-dark"> 
-                <Helmet pageTitle="inforprize" />
+                <Helmet pageTitle="iInforprize || Pleasure in making technology, Website, marketing, video, & Apps" />
                 <Header headertransparent="header--transparent" colorblack="color--black" logoname="logo.png" />
 
                 {/* Start Slider Area   */}
