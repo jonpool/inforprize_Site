@@ -278,14 +278,14 @@ const agencyDemo = [
     {
         url: 'studio-agency',
         imageUrl: 'studio-agency.png',
-        title: 'Studio Agency',
+        title: 'Inforprize || Pleasure in make technology, Website, marketing, video, & Apps',
         description: 'It has been used background video and vedio popup.You can use it for all kinds of agencies studio.',
         label: ''
     },
     {
         url: 'dark-main-demo',
         imageUrl: 'dark-main-demo.png',
-        title: 'Main Demo — Dark Version',
+        title: 'Inforprize || Pleasure in make technology, Website, marketing, video, & Apps',
         description: 'Our Template is perfect for creative agency.All agencies use this template for all purpose.',
         label: 'New'
     },
