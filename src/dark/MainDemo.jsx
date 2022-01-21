@@ -65,13 +65,13 @@ class MainDemo extends Component{
                 </div>
                 {/* End CounterUp Area */}
 
-                {/* Start Testimonial Area */}
+                {/* Start Testimonial Area 
                 <div className="rn-testimonial-area bg_color--5 ptb--120">
                     <div className="container">
                         <Testimonial />
                     </div>
                 </div>
-                {/* End Testimonial Area */}
+                 End Testimonial Area */}
 
                 {/* Start Contact Us */}
                 <div className="rn-contact-us ptb--120 bg_color--5" id="contact">

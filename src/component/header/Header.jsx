@@ -62,7 +62,7 @@ class Header extends Component{
                             <ul className="mainmenu">
                                 <li className="has-droupdown"><Link to="#">Home</Link>
                                     <ul className="submenu">
-                                        <li><Link to="/dark-main-demo">Home Dark</Link></li>
+                                        <li><Link to="/main-demo">Home White</Link></li>
                                        
                                     </ul>
                                 </li>
