@@ -50,7 +50,7 @@ class MainDemo extends Component{
 
 
                 {/* Start CounterUp Area */}
-                <div className="rn-counterup-area pt--25 pb--110 bg_color--1">
+                <div className="counterup-area ptb--120 bg-theme-gradient theme-text-white">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
@@ -72,11 +72,11 @@ class MainDemo extends Component{
                 </div>
                 {/* End Testimonial Area */}
 
-                {/* Start Contact Us */}
-                <div className="rn-contact-us ptb--120 bg_color--5" id="contact">
+                 {/* Start Contact Page Area  */}
+                 <div className="rn-contact-page ptb--120 bg_color--1">
                     <Contact />
                 </div>
-                {/* End Contact Us */}
+                {/* End Contact Page Area  */}
 
 
                 {/* Start Brand Area */}
@@ -99,7 +99,7 @@ class MainDemo extends Component{
                 </div>
                 {/* End Back To Top */}
                 
-                <Footer />
+                <Footer/>
             </Fragment>
         )
     }

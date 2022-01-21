@@ -3,16 +3,16 @@ import ScrollToTop from 'react-scroll-up';
 import { FiChevronUp } from "react-icons/fi";
 import Header from "../component/header/Header";
 import Footer from "../component/footer/Footer";
-
 import SliderOne from "../component/slider/SliderOne";
 import ServiceTwo from "../elements/service/ServiceTwo";
 import CounterOne from "../elements/counters/CounterOne";
 import Testimonial from "../elements/Testimonial";
 import About from "../component/HomeLayout/homeOne/About";
 import Portfolio from "../component/HomeLayout/homeOne/Portfolio";
-import BrandTwo from "../elements/Brand";
+import BrandTwo from "../elements/BrandTwo";
 import Helmet from "../component/common/Helmet";
 import Contact from "../elements/contact/ContactTwo";
+
 
 class MainDemo extends Component{
     render(){
@@ -51,7 +51,7 @@ class MainDemo extends Component{
                 {/* End Portfolio Area */}
 
                 {/* Start CounterUp Area */}
-                <div className="rn-counterup-area pt--25 pb--110 bg_color--1">
+                <div className="counterup-area ptb--120 bg-theme-gradient theme-text-white">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
@@ -98,7 +98,7 @@ class MainDemo extends Component{
                 </div>
                 {/* End Back To Top */}
                 
-                <Footer />
+                <Footer/>
                 
             </div>
         )
