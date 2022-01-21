@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class About extends Component{
     render(){
         let title = 'About',
-        description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum,';
+        description = 'The thing that motivates us is a very common form of motivation. And that is, with other folk counting on me, its so easy to be motivated.';
         return(
             <React.Fragment>
                 <div className="about-wrapper">
@@ -26,13 +26,13 @@ class About extends Component{
                                         <div className="col-lg-6 col-md-12 col-sm-12 col-12">
                                             <div className="about-us-list">
                                                 <h3 className="title">Who we are</h3>
-                                                <p>There are many vtions of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                                                <p>Welcome to Inforprize, where we bring strategy, design, and development together to create something amazing and above the expectations</p>
                                             </div>
                                         </div>
                                         <div className="col-lg-6 col-md-12 col-sm-12 col-12">
                                             <div className="about-us-list">
-                                                <h3 className="title">Who we are</h3>
-                                                <p>There are many vtions of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                                                <h3 className="title">Who we work with</h3>
+                                                <p>We work with business & provide solution to clients with their business problem.</p>
                                             </div>
                                         </div>
                                     </div>

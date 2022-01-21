@@ -12,6 +12,8 @@ class SliderOne extends Component {
                         <div className="col-lg-12">
                             <div className="inner">
                                 <h1 className="title theme-gradient">A digital <br /> agency. </h1>
+                                <h2>That Helps You
+To Go Ahead</h2>
                             </div>
                         </div>
                     </div>
