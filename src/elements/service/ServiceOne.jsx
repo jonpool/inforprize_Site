@@ -3,18 +3,18 @@ import React, { Component } from "react";
 const ServiceList = [
     {
         icon: '01',
-        title: 'Business Stratagy',
-        description: 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered.'
+        title: 'Digital Marketing',
+        description: 'World’s no.1 Digital Marketing Agency that help you to go ahead!'
     },
     {
         icon: '02',
         title: 'Website Development',
-        description: 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered.'
+        description: 'Inforprize’s designers and developers help the customers to craft most elegant designs that you could never imagine.'
     },
     {
         icon: '03',
         title: 'Marketing & Reporting',
-        description: 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered.'
+        description: 'Social media marketing has been regarded as the best tool to make a business visible. '
     },
 ]
 
