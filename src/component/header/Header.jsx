@@ -106,8 +106,8 @@ class Header extends Component{
                             </ul>
                         </nav>
                         <div className="header-btn">
-                            <a className="rn-btn" href="https://inforprize.com">
-                                <span>buy now</span>
+                            <a className="rn-btn" href="https://inforprise.com/Login">
+                                <span>Login</span>
                             </a>
                         </div>
                         {/* Start Humberger Menu  */}
