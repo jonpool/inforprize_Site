@@ -9,8 +9,8 @@ import PageScrollTop from './component/PageScrollTop';
 
 // Home layout
 import MainDemo from './home/MainDemo';
+import Login from './home/Login';
 import Startup from './home/Startup';
-import Paralax from './home/Paralax';
 import HomePortfolio from './home/HomePortfolio';
 import DigitalAgency from './home/DigitalAgency';
 import CreativeAgency from './home/CreativeAgency';
@@ -70,7 +70,6 @@ class Root extends Component{
                         <Route exact path={`${process.env.PUBLIC_URL}/main-demo`} component={MainDemo}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/dark-main-demo`} component={DarkMainDemo}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/startup`} component={Startup}/>
-                        <Route exact path={`${process.env.PUBLIC_URL}/paralax`} component={Paralax}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/digital-agency`} component={DigitalAgency}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/creative-agency`} component={CreativeAgency}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/personal-portfolio`} component={PersonalPortfolio}/>
@@ -85,6 +84,7 @@ class Root extends Component{
                         <Route exact path={`${process.env.PUBLIC_URL}/interior-landing`} component={InteriorLanding}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/corporate-business`} component={CorporateBusiness}/>
                         <Route exact path={`${process.env.PUBLIC_URL}/interactive-agency`} component={InteractiveAgency}/>
+                        <Route exact path={`${process.env.PUBLIC_URL}/login`} component={Login}/>
 
                         {/* Element Layot */}
                         <Route exact path={`${process.env.PUBLIC_URL}/service`} component={Service}/>
